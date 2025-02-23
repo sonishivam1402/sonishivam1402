@@ -1,16 +1,85 @@
-## Hi there 👋
+# 👋 Hi there, I'm **Shivam Soni**!
 
-<!--
-**sonishivam1402/sonishivam1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** based in **Vadodara, India**.
 
-Here are some ideas to get you started:
+🌐 **Portfolio:** [shivam-soni.vercel.app](https://shivam-soni.vercel.app/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- **Full Stack Developer** specializing in **.NET**, **Azure**, and modern web technologies.
+- I build scalable, efficient, and high-performance applications using **ASP.NET**, **React**, **Microsoft SQL Server**, and cloud solutions.
+- **BTech in Computer Science and Engineering** — *Navrachana University (2020 - 2024)* — CGPA: **8.57/10**  
+- **Certifications**  
+  - **AZ-900:** Microsoft Azure Fundamentals  
+  - **AZ-104:** Microsoft Azure Administrator  
+  - **AWS Cloud Computing**  
+  - **ReactJS by Infosys Springboard**  
+
+---
+
+## 💼 Experience
+
+- **Full Stack Developer** — *UCI India (Aug 2024 - Present)*  
+  - Developing and maintaining scalable web applications using **.NET**, **React**, and **Azure**.  
+  - Working on cloud solutions and database optimization for high-performance systems.  
+
+- **Mentor - MERN Stack Development** — *Freelance (Part-time)*  
+  - Mentoring a team in developing a **MERN** web application.  
+  - Conducting progress tracking, code reviews, and technology mentoring via Google Meet.  
+
+- **Intern - Backend Development** — *Dec Gaming Studio Pvt Ltd (Jan 2024 - May 2024)*  
+  - Designed and developed an **AR Farming Game** using **Unity** and **Vuforia**.  
+  - Created simulations to teach children about farming processes such as planting, watering, and harvesting.  
+
+---
+
+## 🧰 Tech Stack
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="100" height="100">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0lNCH_ATbLokCfQwAfYieRwgSFftV-52OTg&s" alt="RESTful API" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt=".NET" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="ASP .NET" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="100" height="100">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaf0noJnyGWX1IonIvgKccpswYwuNqAbYX4Q&s" alt="Azure DevOps" width="100" height="100">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="100" height="100">
+  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="GitHub" width="100" height="100">
+</p>
+
+
+
+---
+
+## 📈 GitHub Stats
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sonishivam1402&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sonishivam1402&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:sonishivam1402@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/shivam-soni-052910227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/shivamsoni" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+  </a>
+</p>
+
+
+---
+
+⭐️ *Let’s connect and build something amazing!*
