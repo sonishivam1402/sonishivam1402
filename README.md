@@ -8,30 +8,18 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** based 
 
 ## 🚀 About Me
 
-- **Full Stack Developer** specializing in **.NET**, **Azure**, and modern web technologies.
-- I build scalable, efficient, and high-performance applications using **ASP.NET**, **React**, **Microsoft SQL Server**, and cloud solutions.
-- **BTech in Computer Science and Engineering** — *Navrachana University (2020 - 2024)* — CGPA: **8.57/10**  
-- **Certifications**  
+- 💼 **Full Stack Developer** specializing in **.NET**, **Azure**, and modern web technologies.
+-    Build scalable, efficient, and high-performance applications using **ASP.NET**, **React**, **Microsoft SQL Server**, and **cloud solutions**.
+- 🎓 **BTech in Computer Science and Engineering** — *Navrachana University (2020 - 2024)* — CGPA: **8.57/10**
+
+  ---
+  
+## 🌟 Certifications
+
   - **AZ-900:** Microsoft Azure Fundamentals  
   - **AZ-104:** Microsoft Azure Administrator  
   - **AWS Cloud Computing**  
   - **ReactJS by Infosys Springboard**  
-
----
-
-## 💼 Experience
-
-- **Full Stack Developer** — *UCI India (Aug 2024 - Present)*  
-  - Developing and maintaining scalable web applications using **.NET**, **React**, and **Azure**.  
-  - Working on cloud solutions and database optimization for high-performance systems.  
-
-- **Mentor - MERN Stack Development** — *Freelance (Part-time)*  
-  - Mentoring a team in developing a **MERN** web application.  
-  - Conducting progress tracking, code reviews, and technology mentoring via Google Meet.  
-
-- **Intern - Backend Development** — *Dec Gaming Studio Pvt Ltd (Jan 2024 - May 2024)*  
-  - Designed and developed an **AR Farming Game** using **Unity** and **Vuforia**.  
-  - Created simulations to teach children about farming processes such as planting, watering, and harvesting.  
 
 ---
 
