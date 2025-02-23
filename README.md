@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I’m a passionate **Full Stack Developer** based 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="100" height="100">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaf0noJnyGWX1IonIvgKccpswYwuNqAbYX4Q&s" alt="Azure DevOps" width="100" height="100">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="100" height="100">
-  <img src="https://play-lh.googleusercontent.com/PCpXdqvUWfCW1mXhH1Y_98yBpgsWxuTSTofy3NGMo9yBTATDyzVkqU580bfSln50bFU" alt="GitHub" width="100" height="100">
+  <img src="https://i.pinimg.com/originals/6b/9e/50/6b9e507694695e7f16eb14c4bdfe8dba.png" alt="GitHub" width="100" height="100">
 </p>
 
 
